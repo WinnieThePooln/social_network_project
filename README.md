@@ -1,1 +1,1 @@
-# socal_network_project
+# Team project 10 : yelp_dataset 
